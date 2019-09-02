@@ -1,3 +1,3 @@
 # Your code here
-def meal_choice (meat = protein,)
+def meal_choice (meat = protein, )
   puts
